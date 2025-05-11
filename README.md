@@ -2,7 +2,7 @@
 
 ### Challenge A: Array Reversal
 
-![Array Reversal Whiteboard](challenges/challenges-and-data-structures/whiteboard-challenges/im1.PNG)
+![Array Reversal Whiteboard](.../whiteboard-challenges/im1.PNG)
 
 ---
 
