@@ -2,10 +2,10 @@
 
 ### Challenge A: Array Reversal
 
-![Array Reversal Whiteboard](C:\Users\Salma\Desktop\challenges-and-data-structures\whiteboard-challenges\im1.PNG)
+![Array Reversal Whiteboard](C:/Users/Salma/Desktop/challenges-and-data-structures/im1.PNG)
 
 ---
 
 ### Challenge B: Most Frequent Number
 
-![Most Frequent Number Whiteboard](challenges-and-data-structures/whiteboard-challenges/im2.PNG)
+![Most Frequent Number Whiteboard](im2.PNG)
