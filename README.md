@@ -8,4 +8,4 @@
 
 ### Challenge B: Most Frequent Number
 
-![Most Frequent Number Whiteboard](whiteboard-challenges\im2.PNG)
+![Most Frequent Number Whiteboard](whiteboard-challenges/im2.PNG)
