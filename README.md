@@ -15,4 +15,4 @@
 
 ### *Challenge 02: Minimum Value*
 - #### *Challenge : Minimum Value*
-![Most Frequent Number Whiteboard](whiteboard-challenges/im2.PNG)
+![Minimum Value](whiteboard-challenges/im3.PNG)
