@@ -9,5 +9,5 @@ function ReverseCharacters(str) {
 // Example usage:
 console.log(ReverseCharacters("javascript")); // Output: "tpircsavaj"
 console.log(ReverseCharacters("elyts"));      // Output: "style"
-console.log(ReverseCharacters("nadroj"));     // Output: ")ordan"
+console.log(ReverseCharacters("nadroj"));     // Output: "jordan"
 console.log(ReverseCharacters("abc564"));     // Output: "465cba"
