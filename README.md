@@ -19,15 +19,10 @@
 
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> Reverse-Characters
 ### *Challenge 03: Reverse-Characters*
 - #### *Challenge : Reverse-Characters*
 ![Reverse-Characters](whiteboard-challenges/im5.PNG)
 ![Reverse-Characters](whiteboard-challenges/im4.PNG)
-<<<<<<< HEAD
 
 ---
 
@@ -35,5 +30,3 @@
 - #### *Challenge : Remove-Middle-Value*
 ![Remove-Middle-Value](whiteboard-challenges/im6.PNG)
 
-=======
->>>>>>> Reverse-Characters
