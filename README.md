@@ -32,7 +32,24 @@
 
 ---
 
+
 ### *Challenge 05: Linked List*
 - #### *Challenge : Linked List*
-![Minimum Value](Data-Structer/LinkList/linkedlist.PNG)
+![linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/Add.PNG)
+![linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/remove.PNG)
+![linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/Insert.PNG)
+![linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/Includes.PNG)
+![linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/Print.PNG)
 
+---
+
+### *Challenge 06: Reverse Linked List*
+- #### *Challenge : Reverse Linked List*
+![Reverse linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/Reverse.PNG)
+
+---
+
+
+### *Challenge 07: Merge Sorted Linked List*
+- #### *Challenge : Merge Sorted Linked List*
+![Reverse linked list](./Data-Structer/LinkList/Link-List-Implementation/MergeSorted/merged.PNG)
