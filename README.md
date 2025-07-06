@@ -53,3 +53,10 @@
 ### *Challenge 07: Merge Sorted Linked List*
 - #### *Challenge : Merge Sorted Linked List*
 ![Reverse linked list](./Data-Structer/LinkList/Link-List-Implementation/MergeSorted/merged.PNG)
+
+---
+
+
+### *Challenge 08: Rotate Linked List*
+- #### *Challenge : Rotate Linked List*
+![Reverse linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/RotateLinkedList.PNG)

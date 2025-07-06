@@ -53,11 +53,11 @@ describe('RotateLinkedList - Edge Cases and Behavior', () => {
   });
 });
 
-// Helper: convert linked list to array
+
 function toArray(head) {
   const arr = [];
   while (head) {
-    arr.push(head.data || head.val); // supports both 'data' and 'val' keys
+    arr.push(head.data || head.val); 
     head = head.next;
   }
   return arr;
