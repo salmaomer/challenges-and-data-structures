@@ -2,7 +2,6 @@ class Queue {
   constructor() {
     this.items = [];
   }
-
   
   enqueue(data) {
     this.items.push(data);
