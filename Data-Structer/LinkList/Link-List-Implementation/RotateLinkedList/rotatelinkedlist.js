@@ -18,7 +18,7 @@ class rotatelinkedlist {
         // Step 2: Normalize k
         k = k % length;
         if (k < 0) {
-            k = length + k; 
+            k = length + k; // Rotate right = rotate left by length + k
         }
         if (k === 0) return;
 
@@ -39,5 +39,7 @@ class rotatelinkedlist {
         this.linkedList.printList();
     }
 }
+
+module.exports = rotatelinkedlist;
 
 module.exports = rotatelinkedlist;
