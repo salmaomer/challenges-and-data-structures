@@ -41,5 +41,3 @@ class rotatelinkedlist {
 }
 
 module.exports = rotatelinkedlist;
-
-module.exports = rotatelinkedlist;
