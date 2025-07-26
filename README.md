@@ -60,21 +60,3 @@
 ### *Challenge 08: Rotate Linked List*
 - #### *Challenge : Rotate Linked List*
 ![Reverse linked list](./Data-Structer/LinkList/Link-List-Implementation/whiteboardImage/RotateLinkedList.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

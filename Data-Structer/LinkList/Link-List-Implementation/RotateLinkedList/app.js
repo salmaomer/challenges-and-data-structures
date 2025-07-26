@@ -9,16 +9,4 @@ const rotator = new rotatelinkedlist(list);
 
 rotator.printList();      
 rotator.rotate(2);        
-rotator.printList();      
-
-
-
-
-
-
-
-
-
-
-
-
+rotator.printList(); 

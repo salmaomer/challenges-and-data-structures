@@ -62,20 +62,3 @@ function toArray(head) {
   }
   return arr;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
