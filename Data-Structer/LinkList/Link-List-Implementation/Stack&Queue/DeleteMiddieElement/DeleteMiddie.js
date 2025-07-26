@@ -23,7 +23,7 @@ class DeleteMiddie extends Stack {
     }
 
     while (!tempStack.isEmpty()) {
-      this.push(tempStack.pop());
+      this.push (tempStack.pop());
     }
   }
 
@@ -31,5 +31,5 @@ class DeleteMiddie extends Stack {
     return [...this.items];
   }
 }
-
+/* */
 module.exports = DeleteMiddie;
